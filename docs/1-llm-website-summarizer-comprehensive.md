@@ -12,6 +12,8 @@ This article analyzes the technical implementation of an LLM-powered website sum
 
 Whether you're building your first LLM application or looking to optimize existing implementations, this analysis provides valuable insights into the effective design patterns and technical considerations for LLM-powered tools.
 
+## GitHub Repo code: https://github.com/LearnTechnoBios/LLM/blob/main/code/1_summarizer_local_model.py
+
 ## Introduction
 
 The code presented demonstrates a sophisticated implementation of a website summarization tool powered by Large Language Models (LLMs). This application represents a practical use case of how modern LLMs can be leveraged to process and distill web content into concise, human-readable summaries. At its core, the implementation follows a distinct two-step process that separates data collection from AI processing, with careful attention to prompt engineering.
