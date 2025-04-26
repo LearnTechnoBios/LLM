@@ -8,6 +8,9 @@ Have you ever needed to quickly understand what a company does, its culture, and
 
 Unlike traditional web scrapers that simply extract text, our solution uses an LLM to intelligently identify relevant content and transform it into a cohesive narrative—a skill that previously required human judgment and writing ability. What makes this approach particularly interesting is that it runs entirely on local infrastructure using Ollama, making it accessible to developers without requiring expensive API subscriptions.
 
+## GitHub Repo code:
+https://github.com/LearnTechnoBios/LLM/blob/main/code/2_brochure_builder_cmd.py
+
 ## The Technical Foundation: Understanding the Architecture
 
 Let's break down the main components of our brochure generation system:
