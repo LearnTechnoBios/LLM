@@ -133,11 +133,6 @@ def create_brochure(company_name, url):
     return response.choices[0].message.content
 
 
-# # Example usage:
-# if __name__ == "__main__":
-#     create_brochure("Maxim Langman", "https://maxim-langman.com")
-
-
 view = gr.Interface(
     fn=create_brochure,
     inputs=[
@@ -148,4 +143,4 @@ view = gr.Interface(
     outputs=[gr.Markdown(label="Brochure:")],
     flagging_mode="never"
 )
-view.launch()
+view.launch(debug=True, share=True)
