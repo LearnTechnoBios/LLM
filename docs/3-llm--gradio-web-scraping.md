@@ -1,12 +1,15 @@
-# Beyond Notebooks: Rapidly Building Shareable Web Interfaces for Your Data Science Projects
+# The Gradio Revolution: Making Data Science Accessible
 
 # Building Collaborative Data Science UIs with Gradio: From Web Scraping to Interactive Brochures
 
-*This article is a continuation of our previous exploration of data science tools and interfaces. Check out the first part here: [ABC-link]*
+*This article is a continuation of our previous exploration of data science tools and interfaces. 
+Check out the first part here: https://github.com/LearnTechnoBios/LLM/blob/main/docs/2-llm-information-architects-brochure.md*
 
 In today's data-driven landscape, the ability to not only analyze information but also to share interactive interfaces with stakeholders has become increasingly valuable. Data scientists often face a common challenge: How do you transform your powerful code into an accessible application that non-technical users can interact with? Enter Gradio, a Python library that's revolutionizing how data scientists share their work and collaborate across teams.
 
 As we explored in our previous article, creating intuitive interfaces for complex algorithms doesn't have to be a daunting task. Today, we'll build on that foundation by exploring a practical application: a web scraping tool that automatically generates company brochures using Gradio and LLMs (Large Language Models).
+
+## GitHub Repo: https://github.com/LearnTechnoBios/LLM/blob/main/code/3_brochure_builder_with_ui.py
 
 ## The Power of Gradio for Data Scientists
 
